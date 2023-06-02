@@ -125,6 +125,7 @@ footer {
         position: absolute;
         top: 52vh;
         left: 49vw;
+        z-index: 3500;
     }
 
     .share-logo {
@@ -141,10 +142,10 @@ footer {
     }
 
     #logo-open {
-        padding: 1.2em;
         position: relative;
-        left: 30.4vw;
-        top: 1.8vh;
+        left: -2em;
+        top: 8.5vh;
+        z-index: 4000;
     }
 
     .share-txt  {
