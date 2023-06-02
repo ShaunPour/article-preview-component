@@ -131,4 +131,23 @@ footer {
         position: relative;
         left: 16vw;
     }
+
+    .share-open  {
+        width: 25%;
+        border-radius: 10px;
+        position: relative;
+        left: 32vw;
+        top: 43vh;
+    }
+
+    #logo-open {
+        padding: 1.2em;
+        position: relative;
+        left: 30.4vw;
+        top: 1.8vh;
+    }
+
+    .share-txt  {
+        margin-left: 2em;
+    }
 }
