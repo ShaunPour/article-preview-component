@@ -17,6 +17,20 @@ body {
     width: 15%;
 }
 
+.title {
+    color: #48556A;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+
+.txt {
+    color: #6E8098;
+    line-height: 20px;
+    letter-spacing: 0.12px;
+    width: 65%;
+    font-size:16px;
+}
+
 footer {
     display: flex;
     align-items: center;
@@ -64,6 +78,57 @@ footer {
 .share-open {
     display: flex;
     position: absolute;
-    top: 33em;
+    top: 34em;
     padding: 1em 0 1em 0;
+}
+
+@media (min-width: 1440px) {
+    body {
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        background-color: hsl(210, 46%, 95%);
+    }
+
+    .head {
+        width: 40vw;
+        position: absolute;
+        top: 25vh;
+        left: 6vw;
+        border-radius: 10px 0 0 10px;
+    }
+
+    main {
+        background-color: #fff;
+        padding: 0 11em 17.1em 0;
+        width: 35%;
+        position: absolute;
+        left: 46.05vw;
+        top: 25vh;
+        border-radius: 0 10px 10px 0;
+    }
+
+    .title {
+        width: 75%;
+    }
+
+    .txt {
+        width: 75%;
+        margin-top: 1em;
+    }
+
+    .title,.txt {
+        margin-left: 3em;
+    }
+
+    footer {
+        position: absolute;
+        top: 52vh;
+        left: 49vw;
+    }
+
+    .share-logo {
+        position: relative;
+        left: 16vw;
+    }
 }
