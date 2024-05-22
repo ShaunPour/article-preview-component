@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Solution Repo](https://github.com/DarkPhoenixNinja92/article-preview-component)
-- Live Site URL: [GitHub Pages Site URL](https://darkphoenixninja92.github.io/article-preview-component)
+- Solution URL: [GitHub Solution Repo](https://github.com/shaunpour/article-preview-component)
+- Live Site URL: [GitHub Pages Site URL](https://shaunpour.github.io/article-preview-component)
 
 ### Built with
 
@@ -47,7 +47,7 @@ I did this project mainly to work on my css skills some more while adding some j
 
 - Website - [Shaun Pour](https://darkphoenixninja92.github.io/)
 - Frontend Mentor - [@DarkPhoenixNinja92](https://www.frontendmentor.io/profile/DarkPhoenixNinja92)
-- GitHub - [@DarkPhoenixNinja92](https://github.com/DarkPhoenixNinja92)
+- GitHub - [@ShaunPour](https://github.com/ShaunPour)
 
 ## Acknowledgments
 
