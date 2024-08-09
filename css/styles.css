@@ -4,6 +4,11 @@ body {
     align-items: center;
     justify-content: center;
     font-family: 'Manrope',sans-serif;
+    background-color: hsl(180, 66%, 79%);
+}
+
+main, footer {
+    background-color: #fff;
 }
 
 .head {
@@ -42,6 +47,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 80vw;
 }
 
 .share-logo {
